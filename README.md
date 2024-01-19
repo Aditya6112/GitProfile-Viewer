@@ -15,4 +15,6 @@ This project allows you to search and view GitHub profiles along with repositori
    ```bash
    git clone https://github.com/your-username/GitProfile-Viewer.git
 
-3. Select the Go Live button on Vs code for going live. / Directly open the index.html file in your folder that is downloaded to your machine. 
+3.Then open the repo and select Repo Project and go to index.html and then click go live.
+
+4. Select the Go Live button on Vs code for going live. / Directly open the index.html file in your folder that is downloaded to your machine. 
